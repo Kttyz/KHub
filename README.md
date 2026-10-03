@@ -1,2 +1,2 @@
-# KHub
-wow its like xbox ui but my own
+## Khub
+basically xbox ui but what i can use it for
